@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1,360p
+http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/2.m3u8
