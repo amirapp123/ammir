@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720,QUALITY=hd,FRAME-RATE=30,NAME="720p"
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/f9BBaaQsGaAEJUb1zyOyre87y6bZuZen71MMlysTM6UNy297rn2Olwvb4QboAcfTs3yphO_g5KVDf0MLOCGLKg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+https://raw.githubusercontent.com/amirapp123/ammir/main/qualities/alwan/720p.m3u8
