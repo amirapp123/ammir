@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20premier%201%20HD.png" group-title="Xtream",AR|beIN MOVIES 1 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71221.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20premier%201%204K.png" group-title="Xtream",AR|beIN MOVIES 1 HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124862.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20action%202%20HD.png" group-title="Xtream",AR|beIN MOVIES 2 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71222.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20action%202%204K.png" group-title="Xtream",AR|beIN MOVIES 2 HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124863.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20drama%203%20HD.png" group-title="Xtream",AR|beIN MOVIES 3 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71223.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20drama%203%204K.png" group-title="Xtream",AR|beIN MOVIES 3 HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124864.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20family%204%20HD.png" group-title="Xtream",AR|beIN MOVIES 4 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71224.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20movies%20family%204%204K.png" group-title="Xtream",AR|beIN MOVIES 4 HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124865.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20series%201%204K.png" group-title="Xtream",AR|beIN SERIES 1 HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124866.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20series%201%20HDpng.png" group-title="Xtream",AR|beIN SERIES 1 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71225.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20series%202%20HD.png" group-title="Xtream",AR|beIN SERIES 2 HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71226.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20drama%201%20AR%20HD.png" group-title="Xtream",AR|beIN DRAMA HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71230.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20drama%201%20AR%204K%20.png" group-title="Xtream",AR|beIN DRAMA HEVC
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/124867.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20HD.png" group-title="Xtream",AR|beIN STAR ACTION
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71245.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20ACTION%20MOVIES.png" group-title="Xtream",AR|beIN FOX ACTION MOVIES
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71243.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20MOVIES.png" group-title="Xtream",AR|beIN Fox Family Movies
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/129262.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20MOVIES.png" group-title="Xtream",AR|beIN TCM HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/86222.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/AMC%20HD.png" group-title="Xtream",AR|beIN BOX OFFICE 2 UHD 4K
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/129265.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20REWAYAT.png" group-title="Xtream",AR|beIN BOX OFFICE 2
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/73774.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20LIFE%20HD.png" group-title="Xtream",AR|beIN STAR WORLD HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/73775.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FOX%20CRIME.png" group-title="Xtream",AR|beIN BOX OFFICE 1 UHD 4K
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/73776.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/FATAFET.png" group-title="Xtream",AR|beIN Fatafeat
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71228.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/bein%20Gourmet.png" group-title="Xtream",AR|beiN Gourmet
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71229.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/STAR%20WOLDS.png" group-title="Xtream",AR|beIN STAR WORLD HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71233.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/STAR%20MOVIES.png" group-title="Xtream",AR|beIN STAR Movies
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71257.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/HGTV.png" group-title="Xtream",AR|beIN HGTV
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/129266.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEIN--ENTAIOM/TRAVEL.png" group-title="Xtream",AR|beIN TRAVEL CHANNEL
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/129264.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/DISCOVRY%20FAMILY.png" group-title="Xtream",AR|beIN Discovery Family HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/129263.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/DISCOVRY%20HD.png" group-title="Xtream",AR|beIN Discovery HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71238.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/DISCOVRY%20SCIENCS.png" group-title="Xtream",AR|beIN Travel
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71240.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/IDX.png" group-title="Xtream",AR|beIN Discovery IDX
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71244.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/nat%20gea%20WOLD.png" group-title="Xtream",AR|beIN NAT GEO Wild
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/73771.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/nat%20gea%20hd.png" group-title="Xtream",AR|beIN NAT GEO HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/73773.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/jeem.png" group-title="Xtream",AR|beIN JEEM
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71250.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/be%20junior.png" group-title="Xtream",AR|beIN JUNIOR HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71231.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/baraem.png" group-title="Xtream",AR|beIN BARAEM
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71249.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/catoon%20networks.png" group-title="Xtream",AR|beIN CARTOON NETWORK
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71248.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/boomerang.png" group-title="Xtream",AR|beIN Boomerang HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71236.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/boomerang.png" group-title="Xtream",AR|beIN Boomerang HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/71246.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/dreamWorks.png" group-title="Xtream",AR|beIN Dream Works
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/86224.m3u8
+#EXTINF:-1 tvg-logo="http://kinglogo.newtvhd.com/logoo/BEINentertainment4K/food%20network.png" group-title="Xtream",AR|beIN Food Network HD
+http://legendking.net:8080/live/Hassania040326/nD6nbJzB61dPd9h/88566.m3u8
